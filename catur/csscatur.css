@@ -1,0 +1,56 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.jumbotron img {
+  border-radius: 100px;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  scroll-margin-top: 3.5rem;
+}
+
+#activity .container .row .col h2 {
+  padding-top: 1rem;
+}
+
+/* .container .jumbotron {
+          top: 0;
+          bottom: 0;
+          right: 0;
+          left: 0;
+          width: 100%;
+        }
+        
+        .hero {
+          margin-top: -40px;
+          width: 100%;
+          height: 400px;
+          background-position: center;
+          background-image: url(img/Limau.jpg);
+          background-size: cover;
+          position: relative;
+        } */
+
+.jumbotron .container {
+  height: 65%;
+  width: 65%;
+  margin-bottom: 20px;
+}
+
+.d-block img {
+  margin-top: 50px;
+}
+
+.list-group p {
+  background-color: #e2edff;
+}
+
+#opaci {
+  opacity: 0.5;
+}
